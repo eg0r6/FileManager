@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\bin\Debug\net8.0\FilesManager.exe
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\bin\Debug\net8.0\FilesManager.deps.json
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\bin\Debug\net8.0\FilesManager.runtimeconfig.json
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\bin\Debug\net8.0\FilesManager.dll
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\bin\Debug\net8.0\FilesManager.pdb
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\FilesManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\FilesManager.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\FilesManager.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\FilesManager.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\FilesManager.sourcelink.json
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\FilesManager.dll
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\refint\FilesManager.dll
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\FilesManager.pdb
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\FilesManager.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\FileManager\FilesManager\FilesManager\obj\Debug\net8.0\ref\FilesManager.dll
